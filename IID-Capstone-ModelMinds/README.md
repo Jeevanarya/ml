@@ -74,10 +74,10 @@ The approach helps improve **precision, recall, and F1-score** for defect detect
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/manufacturing-defect-detection.git
+   git clone https://github.com/Jeevanarya/ml.git
    cd manufacturing-defect-detection
 2. Install dependencies:
     pip install -r requirements.txt
 3. Run the Jupyter Notebook:
-    jupyter notebook ProjMM_FSelect_SMOTE_RF.ipynb
+    jupyter notebook ProjMM_manufacturing_defect_detection.ipynb
 
